@@ -140,4 +140,4 @@ Either fix alone prevents the BSOD. Both should be applied for defense in depth.
 ## Timeline
 
 - 2026-11-06: Vulnerability discovered via crash dump analysis
-- 2026-11-08: CVE requested, vendor appears inactive/unmaintained
+- 2026-11-08: CVE requested
