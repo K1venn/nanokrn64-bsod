@@ -5,6 +5,7 @@
 | **Vendor** | NANO Security / E-Style Software Corp. |
 | **Product** | NANO Antivirus |
 | **Filename** | nanokrn64.sys |
+| **Version** | 1.0.358.510 |
 | **PE TimeDateStamp** | 0x65F57999, 2024-03-16 |
 | **Image Size** | 0x1450000 |
 | **SHA256** | ccd0f67e2e0e3f65b7c75f472161160fd14ec5d10a6c304565d096a27c0a264c |
